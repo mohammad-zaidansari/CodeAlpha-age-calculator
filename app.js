@@ -15,6 +15,4 @@ function calculateAge() {
         let resultElement = document.getElementById("result");
         resultElement.innerHTML = `Your age is ${ageInYears}  years, ${ageInMonths} months, and ${ageInDays} days`;
     }
-
-    
 }
